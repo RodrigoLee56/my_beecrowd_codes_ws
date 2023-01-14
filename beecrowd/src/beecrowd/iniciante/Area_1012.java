@@ -2,7 +2,7 @@ package beecrowd.iniciante;
 
 import java.util.Scanner;
 
-public class Area {
+public class Area_1012 {
 
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in);
