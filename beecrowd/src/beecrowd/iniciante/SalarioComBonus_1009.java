@@ -2,7 +2,7 @@ package beecrowd.iniciante;
 
 import java.util.Scanner;
 
-public class SalarioComBonus {
+public class SalarioComBonus_1009 {
 
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in);
